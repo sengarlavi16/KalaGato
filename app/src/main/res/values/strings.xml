@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KalaGato</string>
+    <string name="posts">Posts</string>
+    <string name="title">sunt aut facere repellat provident occaecati excepturi optio reprehenderit</string>
+    <string name="description">quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_internet">No Internet</string>
+    <string name="no_network_message">No Network</string>
+    <string name="comments">Comments</string>
+    <string name="email">Veronica_Goodwin@timmothy.net</string>
+</resources>
